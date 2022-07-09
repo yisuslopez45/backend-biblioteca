@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-validator": "^6.14.0",
+    "jsonwebtoken": "^8.5.1",
+    "nodemailer": "^6.7.3",
+    "pg": "^8.7.3"
+  },
+  "name": "biblioteca-backend",
+  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/jesuslopezda8/biblioteca-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/jesuslopezda8/biblioteca-backend/issues"
+  },
+  "homepage": "https://gitlab.com/jesuslopezda8/biblioteca-backend#readme"
+}
